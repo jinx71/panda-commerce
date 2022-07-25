@@ -1,0 +1,28 @@
+.panda-bg-info {
+    background-color: #feeae9;
+}
+
+.panda-btn-color {
+    background-color: #ff4690;
+}
+
+.panda-btn-color:hover {
+
+    background-color: #ff4690;
+}
+
+.categories-watch-bg {
+    background-color: #ffa500;
+}
+
+.categories-bag-bg {
+    background-color: #da70d6;
+}
+
+.categories-shoes-bg {
+    background-color: #0000ff;
+}
+
+.categories img {
+    width: 100px;
+}
